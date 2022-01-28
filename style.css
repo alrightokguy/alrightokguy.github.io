@@ -1,12 +1,13 @@
 h1 {
-    font-size: 72px;  
+    font-size: 72px;
 }
 
 h2 {
-    color: #00ff00;
+    color: purple;
 }
 
-h4.job-title {
+h4 {
+    color: maroon
 }
 
 h2#menu {
@@ -16,7 +17,7 @@ h2#menu {
 }
 
 a {
-    color: purple;
+    color: rgb(29, 47, 202);
 }
 
 h2#job {
