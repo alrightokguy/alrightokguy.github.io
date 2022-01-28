@@ -16,6 +16,9 @@ h2#menu {
     color: purple;
 }
 
+h2.heading {
+    color: red
+}
 a {
     color: rgb(29, 47, 202);
 }
